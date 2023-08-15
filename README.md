@@ -1,1 +1,1 @@
-# jinja-phyton-fastapi
+# jinja-python-fastapi
